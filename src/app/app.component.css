@@ -1,4 +1,4 @@
-.container {
+.titletext {
     background-color: #0b3d91;
     width: 30%;
     text-align: center;
@@ -7,4 +7,44 @@
     border-radius: 5px;
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000000;
+    margin-bottom: 10px;
+}
+.card {
+    padding:5px;
+    border-radius: 7px;
+    box-shadow: 5px 5px rgba(0,0,0,0.3);
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    background-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+    
+}
+.container {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* border: #000000;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 5px; */
+}
+.textspan {
+    margin-left: 30px;
+    margin-right: 30px;   
+}
+h1 {
+    margin: 0px;
+    font-size: 30pt;
+}
+.twentypercent {
+    width: 20%;
+    margin: auto;
+    text-align: left;
 }
