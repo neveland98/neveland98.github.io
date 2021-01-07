@@ -1,6 +1,6 @@
 .titletext {
     /* background-color: #0b3d91; */
-    width: 30%;
+    width: fit-content;
     text-align: center;
     margin: auto;
     /* box-shadow: 5px 5px rgba(0,0,0,0.3); */
@@ -45,7 +45,7 @@ h1 {
     font-size: 30pt;
 }
 .twentypercent {
-    width: 20%;
+    width: fit-content;
     margin: auto;
     text-align: left;
 }
@@ -56,7 +56,7 @@ h3 {
     color: #333333;
 }
 p {
-    width: 70%;
+    width: fit-content;
     margin: auto;
     color: #333333;
 }
