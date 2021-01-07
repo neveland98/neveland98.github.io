@@ -69,3 +69,11 @@ img {
     max-width: 828px;
     margin: 20px;
 }
+
+body {
+    background-color: #dddddd;
+}
+
+* {
+    font-family: Helvetica, Arial, Helvetica, sans-serif;
+}
