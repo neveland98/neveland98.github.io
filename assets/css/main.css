@@ -2211,7 +2211,13 @@ input, select, textarea {
 			}
 
 /* Image */
-
+#headshot {
+	width: 40em;
+	padding:20px;
+}
+.small {
+	width: 15%;
+}
 .screenshot {
 	vertical-align: middle;
     border-style: none;
