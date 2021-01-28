@@ -2212,6 +2212,15 @@ input, select, textarea {
 
 /* Image */
 
+.screenshot {
+	vertical-align: middle;
+    border-style: none;
+    width: 100%;
+	height: auto;
+	padding: 10px;
+    /* max-width: 828px; */
+    /* margin: 20px; */
+}
 	.image {
 		border: 0;
 		display: inline-block;
